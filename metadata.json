@@ -1,0 +1,6 @@
+{
+  "name": "+200 Atividades Criativas para Fazer em Casa",
+  "description": "Mais de 200 atividades criativas em PDF para crianças de 3 a 8 anos, com materiais caseiros e passo a passo para mães e pais. Kits a partir de R$10,00.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
